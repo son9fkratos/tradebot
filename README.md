@@ -29,7 +29,7 @@ This is my first tradng bot based and there will be a lot of code to be refactor
 2. Navigate to the project directory:
 
     ```shell
-    cd your-repo
+    cd tradebot
     ```
 
 3. Open the project in your preferred MQL5 editor.
