@@ -60,10 +60,6 @@ I welcome contributions from the community! Here's how you can get involved:
 
 4. **Submit a Pull Request**: Once you're ready, submit a pull request to the main branch.
 
-5. **Stay Engaged**: Keep an eye on discussions and feedback from the community.
-
-Please follow the code of conduct when contributing to the project.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE.md). You can freely use, modify, and distribute the code in accordance with the terms of the license.
