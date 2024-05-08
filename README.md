@@ -9,7 +9,6 @@ This is my first tradng bot based and there will be a lot of code to be refactor
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
@@ -24,7 +23,7 @@ This is my first tradng bot based and there will be a lot of code to be refactor
 1. Clone the repository:
 
     ```shell
-    git clone https://github.com/yourusername/your-repo.git
+    git clone https://github.com/son9fkratos/tradebot.git
     ```
 
 2. Navigate to the project directory:
