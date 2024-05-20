@@ -68,29 +68,5 @@ void OnTick() {
      if (currentATR < 2.05 || currentATR > 2.32){
      isGateOpen = true;
      }
-     
-     
-//   if ((previousATR > currentATR) && (currentATR <= 2.33)){
-//      if (isGateOpen) {
-//         int i = 0;
-//         do {
-//            trade.Buy(lotSize);
-//            i++;
-//         } while (i < numberOfPositions);
-//         isGateOpen = false;
-//      }
-//      
-//   int totalPositions = PositionsTotal();
-//   for (int i = totalPositions - 1; i >= 0; i--){
-//      if (trade.PositionClose(PositionGetSymbol(i))){
-//      totalPositions--;
-//      }
-//   }
-//   
-//   //if (currentATR < 2.05){
-//   //isGateOpen = true;
-//   //}
-//   
-// }
 
 }
